@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: ffprobe
+Version: 0.5
+Summary: Wrapper around ffprobe command to extract metadata from media files
+Home-page: http://www.simon-hargreaves.com/ffprobe
+Author: Simon Hargreaves
+Author-email: simon@simon-hargreaves.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Natural Language :: English
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Software Development :: Libraries
